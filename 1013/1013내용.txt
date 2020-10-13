@@ -1,0 +1,1 @@
+br, hr, pre, first, heading, text tag, anchor, blockquote
